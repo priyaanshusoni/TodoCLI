@@ -22,3 +22,12 @@ Before using the application, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/todo-cli.git
    cd todo-cli
+
+2. Add a Todo
+   ```bash
+     node index.js add "<Todo_Title>" "<Deadline>"
+     node index.js add "Complete Project" "2024-10-15"
+
+
+
+
